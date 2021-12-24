@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vic-doom
+- 👋 Hi, I’m @victorsanni
 - 👀 I’m interested in Machine Learning, Software Development and Data Science
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on interesting coding projects!
