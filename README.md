@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorsanni
 - 👀 I’m interested in Mobile App Development.
-- 🌱 I’m currently learning and building projects in SwiftUI, Objective-C, and Kotlin.
+- 🌱 I’m currently learning and building projects in Flutter, SwiftUI, and Kotlin.
 - 💞️ I currently work on [Flutter](https://github.com/flutter/flutter).
 - 📫 You can reach me at victorsanniay@gmail.com.
 
